@@ -21,6 +21,7 @@ namespace Entidades
             SUV,
             Todos
         }
+
         #region "Constructores"
         private Taller()
         {
